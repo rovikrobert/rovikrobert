@@ -17,7 +17,7 @@ I build AI-powered products and help early-stage companies go to market. Current
 |---|---|
 | **Now** | Founder, MAJIQ Agency — fractional GTM consulting & AI product development |
 | **2019–2025** | Regional Director (Americas), Singapore Economic Development Board — built GTM from zero, $1M budget, 108% increase in Sales Accepted Leads |
-| **2013–2022** | Founder, The Hidden Good — scaled B2B2C media startup to $1M revenue, 20 employees |
+| **2013–2022** | Founder, The Hidden Good — scaled B2B2C media startup to significant revenue, 20 employees |
 | **2018** | MSc Management of Information Systems & Digital Innovation, **LSE** |
 | **2014–2017** | BS Computer Science (Cum Laude), **Northwestern University** — HCI & AI focus |
 
