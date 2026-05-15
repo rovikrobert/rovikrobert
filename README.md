@@ -2,12 +2,13 @@
 
 **Tech + business builder** based in New York / Singapore.
 
-I build AI-powered products and help early-stage companies go to market. Currently shipping [WarmPath](https://warmpath.majiq.agency) — an AI referral marketplace — and running [MAJIQ Agency](https://majiq.agency), where I do fractional GTM consulting for pre-seed to Series A startups.
+I build AI-powered products and help companies go to market. Currently VP Operations, Singapore at [Cantina](https://cantina.ai). On the side I ship open-source projects — [CoSinaBox](https://github.com/rovikrobert/cosinabox) and [WarmPath](https://warmpath.majiq.agency) — and take on select fractional GTM engagements through [MAJIQ Agency](https://majiq.agency).
 
 ---
 
 ### What I'm working on
 
+- **[CoSinaBox](https://github.com/rovikrobert/cosinabox)** — Open-source, self-hosted AI Chief of Staff agent. Engine + thin user repo pattern, AGPL-3.0. Python 3.11 + Anthropic + Telegram + Google APIs. [Live page](https://majiq.agency/cosinabox).
 - **[WarmPath](https://github.com/rovikrobert/warmpath)** — AI-powered referral marketplace helping job seekers get warm intros instead of applying cold. Full-stack: FastAPI + React + Claude API + Postgres + Redis. Built with AI-assisted development (Claude Code).
 - **[MAJIQ Agency](https://majiq.agency)** — Fractional B2B marketing & GTM consulting. AI-augmented workflows, demand gen, ABM, cross-border market entry.
 
@@ -15,7 +16,8 @@ I build AI-powered products and help early-stage companies go to market. Current
 
 | | |
 |---|---|
-| **Now** | Founder, MAJIQ Agency — fractional GTM consulting & AI product development |
+| **Now** | VP Operations, Singapore, [Cantina](https://cantina.ai) |
+| **2025–2026** | Founder, MAJIQ Agency — fractional GTM consulting & AI product development |
 | **2019–2025** | Regional Director (Americas), Singapore Economic Development Board — built GTM from zero, $1M budget, 108% increase in Sales Accepted Leads |
 | **2013–2022** | Founder, The Hidden Good — scaled B2B2C media startup to significant revenue, 20 employees |
 | **2018** | MSc Management of Information Systems & Digital Innovation, **LSE** |
